@@ -1,6 +1,6 @@
 # MyReact
 ##Bài tập môn React
-***Lý thuyết
+Lý thuyết
 1.[Câu 9]:(https://codepen.io/BuiMinhThuan130203/pen/dyKqNMM)
 2.[Câu 10]:(https://codepen.io/BuiMinhThuan130203/pen/gOKxEXx)
 3.[Câu 11]:(https://codepen.io/BuiMinhThuan130203/pen/bGKrZaM)
@@ -10,7 +10,7 @@
 7.[Câu 15]:(https://codepen.io/BuiMinhThuan130203/pen/ZERJPRN)
 8.[Câu 16]:(https://codepen.io/BuiMinhThuan130203/pen/dyKVeKJ)
 9.[Câu 17]:(https://codepen.io/BuiMinhThuan130203/pen/zYaEjLN)
-***Thực hành
+Thực hành
 1.[Làm quen Component](https://codesandbox.io/s/lam-quen-component-1q6cb8)
 2.[Bài thực hành pros và state](https://codesandbox.io/s/thuc-hanh-prop-va-state-4ic15o)
 3.[Bài thực hành số 1](
