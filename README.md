@@ -19,7 +19,7 @@
 17. Câu 16:(https://codepen.io/BuiMinhThuan130203/pen/dyKVeKJ)
 18. Câu 17:(https://codepen.io/BuiMinhThuan130203/pen/zYaEjLN)
 19. Câu 18:(https://codepen.io/BuiMinhThuan130203/pen/KKeGozo)
-20. Câu 19:(https://codepen.io/BuiMinhThuan130203/pen/abKRYZx)
+20. Câu 19:(https://codesandbox.io/s/cau-19-e34wb0)
 21. Câu 20:(https://codepen.io/BuiMinhThuan130203/pen/jOKezMZ)
 22. Câu 21:(https://codepen.io/BuiMinhThuan130203/pen/oNyaqYg)
 ## Thực hành
